@@ -1,0 +1,10 @@
+total 52
+-rw-rw-r--. 1 techops techops   419 Sep 21 15:00 docker-compose.yml
+-rw-rw-r--. 1 techops techops   120 Sep 21 15:00 Dockerfile
+-rw-rw-r--. 1 techops techops    19 Sep 21 14:57 fred.txt
+-rw-rw-r--. 1 techops techops   912 Sep 21 15:00 index.js
+-rw-rw-r--. 1 techops techops     0 Sep 21 15:06 monkey.txt
+-rw-rw-r--. 1 techops techops  3222 Sep 21 15:00 npm-debug.log
+-rw-rw-r--. 1 techops techops   329 Sep 21 15:00 package.json
+-rw-rw-r--. 1 techops techops 22322 Sep 21 15:00 package-lock.json
+-rw-rw-r--. 1 techops techops   351 Sep 21 15:00 README.md
